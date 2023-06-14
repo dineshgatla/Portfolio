@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+ 
+
+.portfolio-logo {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.banner-section-bg-container {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.banner-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+}
+
+.banner-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.banner-section-image {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.person-name {
+    color: #4b6cc1;
+}
+
+.custom-button {
+    color: white;
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+
+.backcontainer {
+    background-color: #323f4b;
+}
+
+.heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.skill-section {
+    background-color: #1f2933;
+}
+
+.skill-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skil-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.skill-card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.skill-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.bg-container {
+    background-color: #3e4c59;
+}
+
+.main-heading {
+    color: #cced00;
+}
+
+.hotel-container {
+    background-color: #323f4b;
+    border-radius: 15px;
+}
+
+.web-heading {
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.heading {
+    font-size: 24px;
+    color: white;
+}
+
+.description {
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.custom-button {
+    color: #cced00;
+}
+
+
+.bg-container1 {
+    background-color: #52606d;
+
+}
+
+.main-heading1 {
+    color: #cced00;
+}
+
+.static-container1 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.image1 {
+    width: 50px;
+    height: 50px;
+}
+
+.static-heading1 {
+    color: white;
+    font-size: 20px;
+}
+
+.description1 {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.bg-container2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+
+}
+
+.title2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.heading2 {
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.hr-line2 {
+    background-color: white;
+    width: 60px;
+}
+
+.bg-container3 {
+    background-color: #0d2436;
+}
+
+.image3 {
+    width: 70px;
+    height: 70px;
+    border-radius: 80px;
+}
+
+.heading3 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.description3 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.address-container3 {
+    background-color: #001c32;
+    text-align: center;
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+
+.testinomials-section {
+    background-color: #1f2933;
+    padding: 40px;
+}
+
+.testinomials-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.testinomials-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.testinomials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.testinomials-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.testinomials-card-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.testinomials-card-person-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.testinomials-section {
+    background-color: #1f2933;
+    padding: 40px;
+}
+
+.testinomials-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.testinomials-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.testinomials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.testinomials-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.testinomials-card-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.testinomials-card-person-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.profile{
+    height: 70%;
+    width: 70%;
+
+}
